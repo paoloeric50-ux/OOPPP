@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "JU5qz-fTOfIFTDzM2ViI7"
+uri = "file://MotorPH-OOP-Payroll-System.tar.gz"
+type = "unspecified"
+title = "MotorPH OOP Payroll System - Ready for Submission"
